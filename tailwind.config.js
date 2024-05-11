@@ -13,7 +13,7 @@ module.exports = {
         secondary: '#64748b',
       },
       screens: {
-        '2xl': '1320px',
+        '2xl': '1280px',
       },
     },
   },

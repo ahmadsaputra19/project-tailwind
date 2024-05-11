@@ -586,12 +586,6 @@ video {
   }
 }
 
-@media (min-width: 1320px) {
-  .container {
-    max-width: 1320px;
-  }
-}
-
 .absolute {
   position: absolute;
 }
